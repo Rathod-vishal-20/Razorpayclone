@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#bg{
+   background-image: url(/Images/feature-section-2BG.svg);
+   
+}
+#bg2{
+   background-image: url(/Images/instant-settlement-bg.svg);
+}
+#bg2:hover{
+   background-image: url(/Images/instant-settlement-bghover.svg);
+}
+#bg3{
+   background-image: url(/Images/core-features-sectionBg.svg);
+   background-size: 100% 100%;
+   padding-top: 12rem;
+   padding-bottom: 12rem ;
+}
+#bg4{
+   background-image: url(/Images/CTABg.svg);
+   background-size: 100% 100%;
+}
+
